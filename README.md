@@ -13,4 +13,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+The project should be enhanced to work on screen width lower then 1400. Now there are issues with this.
+
