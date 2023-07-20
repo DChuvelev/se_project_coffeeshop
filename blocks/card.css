@@ -6,13 +6,16 @@
 .card__items-list {
     list-style: none;
     padding: 0;
-
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
 }
 
 .card__list-item {
-    margin: 0 0 16px;
-    display: flex;
     width: 540px;
+    margin: 0;
+    display: flex;
     gap: 10px;
     font-family: "Noto Serif", 'Times New Roman', serif;
     font-size: 16px;
